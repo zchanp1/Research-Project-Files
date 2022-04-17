@@ -1,0 +1,1 @@
+from .animation_curvature_vector import AnimationCurvatureVector
