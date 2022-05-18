@@ -9,4 +9,4 @@ Once the FBG sensor was connected to the computer it was ran through the Labview
 Task 2: Changepoint detection using the PELT method as mentioned in Killick et Al. 2012
 The next task is to find the harsh breakpoints, which signify a large shift in curvature and apply an algorithm that can accurately detect them, and then apply a line of best fit
 
-Task 3: Using the Cosserat Rod Theory & PyElastica to estimate the change in force the FBG sensor experienced
+Task 3: Using the Cosserat Rod Theory to estimate the change in force the FBG sensor experienced after identifying the force locations
